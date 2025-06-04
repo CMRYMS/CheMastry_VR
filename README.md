@@ -33,10 +33,3 @@ Run the .exe file.
 
 Your game should launch and be visible in your headset.
 
-Useful Links
-Oculus Developer Setup
-
-Unity XR Plug-in Management Docs
-
-Meta Quest Link Support
-
